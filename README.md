@@ -1,6 +1,6 @@
 # Introductie
 
-**Web Performance** = Snelheid.
+**Web Performance** = Snelheid. 
 
 **Het geeft aan hoe snel je website wordt geladen en hoe snel content aan de gebruiker wordt getoond. Belangrijk hierbij is ook vanaf welk punt de gebruiker met jouw website aan de slag kan.**
 
