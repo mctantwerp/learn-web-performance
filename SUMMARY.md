@@ -27,3 +27,7 @@
 * [web.dev](tools/web.dev.md)
 * [Page Speed Insights](tools/page-speed-insights.md)
 
+## Appendix
+
+* [Bronnen](appendix/bronnen.md)
+

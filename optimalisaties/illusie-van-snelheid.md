@@ -22,10 +22,6 @@ Een mooi voorbeeld hiervan is terug te vinden op Instagram. Wanneer je een foto 
 
 ![De animatie die bij het &apos;liken&apos; van een foto op Instagram hoort](../.gitbook/assets/image%20%286%29.png)
 
-{% hint style="info" %}
-#### De Grow screencast over dit onderwerp vind hier: [https://grow.nxtmedia.technology/video/102-performance-dont-make-the-user-wait](https://grow.nxtmedia.technology/video/102-performance-dont-make-the-user-wait)
-{% endhint %}
-
 {% page-ref page="minder-requests-maken.md" %}
 
 

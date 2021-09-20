@@ -29,7 +29,3 @@ We optimaliseren dus in de eerste plaats voor **de gebruiker**, daarnaast optima
 
 In deze space gaan we tips & tricks bekijken om je website zo performant mogelijk te maken, en er dus voor te zorgen dat er zoveel mogelijk gebruikers op je website blijven.
 
-{% hint style="info" %}
-#### De Grow screencast over dit onderwerp vind je hier: [https://grow.nxtmedia.technology/video/101-performance-introductie](https://grow.nxtmedia.technology/video/101-performance-introductie)
-{% endhint %}
-
