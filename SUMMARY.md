@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introductie](README.md)
+* [Grow](grow.md)
 
 ## Theorie
 
