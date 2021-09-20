@@ -1,16 +1,5 @@
 # Minify & Uglify
 
-{% tabs %}
-{% tab title="Uglified Code" %}
-```text
-   let result = x + y;
-   
-   return result;
-} 
-```
-{% endtab %}
-{% endtabs %}
-
 Minify & Uglify zijn beide optimalisaties die je kan doen op het vlak van code om je website performanter te maken.
 
 ### Minify
