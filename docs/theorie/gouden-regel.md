@@ -9,10 +9,3 @@ De gouden regel is de **80-20** regel. **80%** van het werk voor het inladen van
 * Inladen & parsen van stylesheets
 * Inladen & parsen van javascripts
 * DOM painten
-
-{% page-ref page="../optimalisaties/illusie-van-snelheid.md" %}
-
-
-
-
-

@@ -6,7 +6,7 @@ Maar afbeeldingen zijn ook extra content en assets die moeten worden ingeladen a
 
 ### Onnodige data verwijderen
 
-Afbeeldingen bevatten vaak extra data die overbodig wordt van zodra je ze op je website gebruikt. Dit noemen we [exif data](https://en.wikipedia.org/wiki/Exif). Denk aan:
+Afbeeldingen bevatten vaak extra data die overbodig wordt van zodra je ze op je website gebruikt. Dit noemen we [exif data](https://en.wikipedia.org/wiki/Exif){:target="_blank"}. Denk aan:
 
 * Type camera
 * Camera instellingen \(Witbalans, Shutterspeed, ...\)
@@ -26,7 +26,7 @@ Op een webshop bvb zijn de afbeeldingen die getoond worden op het product overzi
 
 ### Responsive Images
 
-Op deze manier kan je afbeeldingen meegeven met je HTML en je browser zelf laten kiezen welke afbeelding hij gebruikt op basis van de schermgrootte van de gebruiker op dat moment. Je vind er [hier](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) meer info over.
+Op deze manier kan je afbeeldingen meegeven met je HTML en je browser zelf laten kiezen welke afbeelding hij gebruikt op basis van de schermgrootte van de gebruiker op dat moment. Je vind er [hier](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images){:target="_blank"} meer info over.
 
 ### Optimalisatie tools
 
@@ -38,13 +38,6 @@ Er bestaan veel tools om afbeeldingen te optimaliseren voor het web. Enkele voor
 * Kraken
 * ...
 
-Een van de meer bekende tools is [Squoosh](https://squoosh.app/). Een tool die door Google is ontwikkeld en die spectaculaire resultaten opleverd. Ga er zeker eens mee aan de slag! 
+Een van de meer bekende tools is [Squoosh](https://squoosh.app/){:target="_blank"}. Een tool die door Google is ontwikkeld en die spectaculaire resultaten opleverd. Ga er zeker eens mee aan de slag!
 
-![Squoosh van Google](../.gitbook/assets/screenshot-18-09-2021at-14.28.15-2x.png)
-
-
-
-{% page-ref page="cdn.md" %}
-
-
-
+![Squoosh van Google](../_resources/images/screenshot-18-09-2021at-14.28.15-2x.png)
